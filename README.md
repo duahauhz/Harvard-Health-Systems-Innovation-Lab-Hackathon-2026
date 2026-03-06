@@ -190,6 +190,7 @@ Dự án được phát triển bởi team **PTIT Health** trong khuôn khổ **
 |-----------|--------|
 | **duahauhz** | [@duahauhz](https://github.com/duahauhz) |
 | **Nguyễn Việt Đức** | [@nguyenvietduc042-lgtm](https://github.com/nguyenvietduc042-lgtm) |
+| **Nguyễn Hải Nam** | [@nguyenhainam071205](https://github.com/nguyenhainam071205) |
 
 ---
 
